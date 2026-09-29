@@ -1,2 +1,12 @@
-# Python-Learning
-Python programming practice, problem-solving ,minor and major  projects.
+# minor-project
+-> Data cleaner and digitalizer
+
+
+
+
+
+
+
+
+
+
